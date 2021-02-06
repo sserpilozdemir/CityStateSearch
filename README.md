@@ -1,6 +1,6 @@
 # CityStateSearch
  
-H E L L O V I S I T E R !
+H E L L O   V I S I T E R !
 
 This mini-search project is about "Ajax Type" that you can find the project's source : https://courses.wesbos.com/account/access/5fc671656ef8b359b1d1370f/view/194130156
 
